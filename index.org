@@ -1,4 +1,5 @@
 #+TITLE: Women of the World Communication
+#+AUTHOR: Fernanda Gomes, Lívia Clarete and Lincoln Clarete
 
 * Communication is Sharing
 
