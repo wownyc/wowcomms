@@ -1,0 +1,7 @@
+* WoW Volunteer Sheet
+** Media [0/4]
+** Tech [1/4]
+   * [X] Letícia (Software Engineering)
+   * [X] Lincoln
+** Research [1/1]
+   * [X] Lívia
