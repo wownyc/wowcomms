@@ -1,0 +1,149 @@
+#+TITLE: Women of the World Communication
+
+* Communication is Sharing
+
+  How hard is it to confine our feelings, thoughts, emotions or
+  beliefs to our own selves? How painful that can be to not be able
+  communicate what we want or what we need.
+
+  Not expressing who we are and what we think increases the distance
+  separating us from other people in society. Not sharing our pain
+  makes it hurt more than other people's pain. Not sharing our
+  happiness makes other people's happiness seem less important than
+  ours. Sharing who we are is how we build common things together,
+  that's how we build our culture.
+
+  Sadly, our society hasn't learned how to provide the fundamental
+  right of communicating to everybody. That compromises our ability to
+  collaborate and build a thriving society together. We need to
+  communicate to succeed as a global community.
+
+  Women of the World are challenging this reality. Instead of
+  suppressing their pains, their feelings, and their thoughts, some
+  women decided to get together and change our entire culture to help
+  us freeing ourselves from this human limitation. The WoW event is
+  the living prof that women know how to do that and that's why there
+  are so many people working so hard to bring this event to more than
+  50 countries.
+
+  Such inspiration should also draw how the Media and Communication of
+  the Apollo/NYC WoW is done. We should think of a system that allows
+  women participating in the event to feel empowered to communicate
+  with the World. Every women that experiences the WoW should leave
+  the event knowing that she has the right to communicate who she is
+  in her home, in her job, and in all other places she may have felt
+  denied of doing so.
+
+  The challenge of building a Media and Communication plan that can't
+  be addressed by single individuals. We need to build a diverse
+  collective of people willing to share their time and skills to
+  document and promote the ideas defended by the event. This
+  collective can be thought of an opportunity to try the changes we
+  want to do to the world on a smaller group of people.
+
+** How do we build horizontal and collaborative communications
+
+   (TODO) Introduce the 'how to' part without sounding like a tech nerd.
+
+** What the collective will do
+
+*** Before the Event
+
+    (TODO)
+
+    * Connect with the global WoW community
+    * Engage people to participate the event
+
+*** During the Event
+
+    (TODO) Fernanda thought about mixing up the "integrity space" with
+    this plan, it fits as perfectly as a glove in the "what the
+    collective will do during the event" but I didn't really think of
+    the activities.
+
+*** After the Event
+
+    (TODO)
+
+** Recruiting Plan
+
+   (TODO) Suggest chain of trust: we'll start with people we trust and
+   these people can find other people they trust.
+
+** References
+
+   * Chimamanda Ngozi Adichie: The danger of a single story (https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story)
+   * Tawakkol Karman: Nobel Lecture (https://www.nobelprize.org/nobel_prizes/peace/laureates/2011/karman-lecture_en.html)
+
+* Practical Results Expected
+
+** Documentation of the Event
+
+   We're planning to start sharing content about the event as soon as
+   the collective is formed. The easiest way to start is to publish
+   content on the Internet, however that's just the beginning, we're
+   planning interventions in other languages like newspapers, other
+   events, etc.
+
+*** Media Sources (Where do we get our content from)
+**** Note Taking
+     Every activity could have a note taker. Someone that will listen
+     and document their experience. Taking notes shouldn't prevent the
+     person in charge of it to fully experience the activity. The
+     notes are small but more accurate because they're taken while the
+     information is super fresh.
+
+**** Phone Captured
+     * Tweets from everyone
+     * Images posted through the schedule system?
+     * Streamed interviews
+
+**** Daily articles
+     People writing articles about activities they watched. We need a
+     group that can rotate through different activities and document
+     what they see and how they feel about the event.
+
+*** Media Sinks (Places to publish our content)
+**** Event Brochure
+     Printable form of a selection of the entire event with all the
+     material collected from all the media sinks.
+**** Social Media
+     * Our Blog & Website: Posts, Photos, Videos, Audios, Links
+     * Twitter: Specific account, tags
+     * Facebook: Posts, Group Chats, Photos
+     * Whatsapp: Groups Chats
+     * Flickr: Photos
+     * Instagram: Photos, Short Videos
+     * Snapchat: Photos, Short Videos
+     * Sound Cloud: Publish Audio of every talk and interviews
+     * Youtube: Videos
+
+* Calendars
+
+** Media
+
+*** November 26th
+    * [ ] Present the Communication Plan
+*** December 12th
+    * [ ] Gathering of the first few volunteers (at least 5): Define
+      communication tools used by the collective (whatsapp group,
+      facebook chat, etc)
+*** December 19th
+    * [ ] Collective gathering: Media strategy to start engaging
+      people. Also think of how each volunteer can do among writing
+      blog posts, writing articles, managing social media.
+*** January 9th, 16th, 23rd, 30th, February 6th, 13th, 20th, 27th, March 6th, 13th
+    * [ ] Collective gathering: Work together writing, publishing, etc
+
+** Tech
+
+*** December 14th
+    * [ ] Roll out first version of the Website (Need to know who
+      manages the domain www.wowapollo.com, also suggest other domain
+      names like:
+
+      * =apollotheater.org/wow2017=
+      * =wow.nyc=
+      * =women.nyc= (expensive, but I'd buy it myself if I could. How
+        freaking awesome would it be to own this domain. I'd even
+        suggest that the Apollo buy it and add it to its estate)
