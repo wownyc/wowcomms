@@ -190,6 +190,24 @@
      * Sound Cloud: Publish Audio of every talk and interviews
      * Youtube: Videos
 
+** Activities during the Event
+
+*** Open Mic
+    The "Open Mic" is a direct reference to the Apollo history. It is
+    a unique experience to empower women to speak to a crowd in a
+    place with so much history and prestige. It is a strong and unique
+    experience of communication.
+
+*** Communication Room
+    The "Communication Room" is a workshop on digital journalism for
+    teaching women interested in publishing her opinions how to use
+    collaborative communication tools.
+
+    The format of the workshop is collaborative, all the learning will
+    happen in the same environment as the communication of the
+    event. All the attendees of the workshop will contribute directly
+    to the content produced by the collaborative communication.
+
 * Calendars
 
 ** December 5th
